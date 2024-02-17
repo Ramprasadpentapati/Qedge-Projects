@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(138, 22, 139);
+    text-align: center;
+    border: 2px;
+    table-layout: auto;
+    shape-image-threshold: initial;
+    font-size-adjust: unset;
+    text-shadow: 2px;
+}
